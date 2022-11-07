@@ -1,4 +1,3 @@
-# Указать командам исполняющие методы.
 
 from telegram.ext import ApplicationBuilder, CommandHandler
 from telegram_bot_commands import *
